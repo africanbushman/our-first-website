@@ -10,7 +10,7 @@ This Website allows you to choose among a wide range of puppies, look at it's ch
 
 ## Setup/Installation Requirements
 
-* Download link and choose either Mac, Windows or Android Version
+* Download link and choose either unix systems, Windows or Android Version
 * Sign Up and confirm your credentials
 * Once you sign up you can choose your preferences
 * Wait for a potential match
