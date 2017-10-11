@@ -1,12 +1,12 @@
-# {Pet website}
+# Pet website
 
-#### {This is a website that allows you to adopt a pet}, {11/10/2017}
+#### This is a website that allows you to adopt a pet, 11/10/2017
 
-#### By **{Newton Bii, David M'Rabu}**
+#### By **Newton Bii, David M'Rabu**
 
 ## Description
 
-{This Website allows you to choose among a wide range of puppies, look at it's charactersistics and match your preferences to the most suitable puppy, reducing the hustle of going around looking for puppies before selecting one.}
+This Website allows you to choose among a wide range of puppies, look at it's charactersistics and match your preferences to the most suitable puppy, reducing the hustle of going around looking for puppies before selecting one.
 
 ## Setup/Installation Requirements
 
@@ -23,11 +23,17 @@
 
 ## Technologies Used
 
-{Technologiess used include Python, JavaScript, HTML, CSS.}
+Technologiess used include:
+
+* Python
+* JavaScript
+* HTML
+* CSS.
+
 
 ## Support and contact details
 
-{If you have issues please, feel free to raise it through our feedback page.}
+If you have issues please, feel free to raise it through our feedback page.
 
 ### License
 
