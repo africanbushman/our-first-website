@@ -23,7 +23,7 @@ This Website allows you to choose among a wide range of puppies, look at it's ch
 
 ## Technologies Used
 
-Technologiess used include:
+Technologies used include:
 
 * Python
 * JavaScript
